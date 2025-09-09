@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 
 <h1 align="center">Hi 👋, I'm Ritik Wakchaure</h1>
-<h3 align="center">A passionate MERN Stack Developer & DSA Enthusiast from India</h3>
+<h3 align="center">A passionate Java Full Stack Developer & DSA Enthusiast from India</h3>
 
 <p align="center">
   <img alt="coding" width="420" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
@@ -12,7 +12,7 @@
 <!-- Dynamic Typing Effect -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+Specialist;DSA+Learner;C%2B%2B+Programmer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+Specialist;React+Frontend+Developer;MySQL+Database+Designer;DSA+Learner+in+C%2B%2B" alt="Typing SVG" />
 </p>
 
 ---
@@ -31,8 +31,9 @@
 
 ### 👨🏻‍💻 About me
 
-* 🌱 I’m currently learning **Web Development** & **DSA**
-* 💬 Ask me about **MERN Stack**
+* 🎓 Computer Science Graduate (Savitribai Phule Pune University)
+* 🌱 I’m currently exploring **Java Full Stack Development**
+* 💬 Ask me about **Java | Spring Boot | React | Hibernate | MySQL**
 * 📫 Reach me at **[rutikwakchaure805@gmail.com](mailto:rutikwakchaure805@gmail.com)**
 * ⚡ Fun fact: **I’m funny** 😄
 
@@ -41,44 +42,45 @@
 ### 🧰 Tech Stack
 
 <p>
-  <!-- MERN -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/Servlets-007396?logo=java&logoColor=white" alt="Servlets"/>
+  <img src="https://img.shields.io/badge/JDBC-007396?logo=java&logoColor=white" alt="JDBC"/>
+
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
 
   <!-- Frontend -->
-
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 
-  <!-- Backend & Tools -->
-
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 
   <!-- Programming & DSA -->
-
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2E8B57?logo=codeforces&logoColor=white" alt="DSA"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2E8B57?logo=leetcode&logoColor=white" alt="DSA"/>
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-* 🛒 **ShopSphere (MERN E‑commerce)** — Auth, cart, payments, admin dashboard.
-  `React` · `Redux` · `Node` · `Express` · `MongoDB`
+* 📚 **Online Book Store (Java Full Stack)** — Authentication, role-based access, CRUD operations.  
+  `Spring Boot` · `Hibernate` · `MySQL` · `React`
 
-* 🎵 **BeatBox (Music Player PWA)** — Offline support, playlists, media session API.
-  `React` · `IndexedDB` · `Workbox`
+* 🛒 **ShopEase (E-commerce Platform)** — Cart, payments, admin dashboard.  
+  `React` · `Spring Boot` · `MySQL`
 
-* 📌 **Taskly (Kanban Board)** — Drag & drop, realtime sync.
-  `React DnD` · `Firebase`
+* 📌 **Task Manager App** — REST APIs + frontend integration.  
+  `Spring Boot` · `Hibernate` · `React`
 
 ---
 
@@ -99,33 +101,19 @@
 
 ---
 
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-* *(Coming soon)*
-
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### 🤝 Connect with me
 
-* Portfolio: **coming soon**
-* LinkedIn: [linkedin.com/in/ritikwakchaure](https://www.linkedin.com/in/ritikwakchaure)
-* X (Twitter): [x.com/](https://x.com/)
-* Email: **[rutikwakchaure805@gmail.com](mailto:rutikwakchaure805@gmail.com)**
+* LinkedIn: [linkedin.com/in/ritikwakchaure](https://www.linkedin.com/in/ritikwakchaure)  
+* X (Twitter): [x.com/](https://x.com/)  
+* Email: **[rutikwakchaure805@gmail.com](mailto:rutikwakchaure805@gmail.com)**  
 
 ---
 
 ### 💡 Fun Extras
 
-* MERN is my core tech stack ⚡
-* I solve DSA problems daily in **C++** 🧑🏻‍💻
-* I like turning complex UI/UX into clean, accessible interfaces.
-* Open to collaboration on interesting frontend or MERN projects.
-* 🌍 Love contributing to **open-source projects**.
+* Java Full Stack is my core tech stack ⚡  
+* I solve DSA problems daily in **Java** 🧑🏻‍💻  
+* I like building scalable applications with **Spring Boot + React**  
+* 🌍 Open to collaboration on interesting Java Full Stack projects.  
 
 ---
-
-<sub>✨ Crafted with love. This is the premium version of my profile README — focused on MERN, C++, and DSA!</sub>
