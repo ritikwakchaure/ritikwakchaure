@@ -24,30 +24,28 @@
 ### 🧰 Tech Stack
 
 
-## 🧰 Tech Stack
 
 <p align="center">
 
 <b>Languages</b><br/>
 <img src="https://skillicons.dev/icons?i=java,cpp,js,ts" />
 
-<br/><br/>
+<br/>
 
 <b>Backend</b><br/>
 <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
 
-<br/><br/>
+<br/>
 
 <b>Frontend</b><br/>
 <img src="https://skillicons.dev/icons?i=react,html,css" />
 
-<br/><br/>
+<br/>
 
 <b>Database & Tools</b><br/>
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea" />
 
 </p>
-
 
 ### 🚀 Featured Projects
 
