@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Building scalable Java backends and modern React frontends for real-world products.
+  I build reliable Java backends and modern React frontends with clean, scalable architecture.
 </p>
 
 ---
@@ -14,34 +14,30 @@
 ### 🔹 About Me
 
 - 🎓 Computer Science Graduate – Savitribai Phule Pune University  
-- 💻 Focused on **Java Full Stack Development** (Spring Boot + React)  
-- 🧠 Strong interest in **Data Structures & Algorithms** and clean architecture  
-- 🎯 Looking for **Java Backend / Full Stack Developer** roles (intern or entry-level)  
+- 💻 Specializing in **Java Full Stack Development (Spring Boot + React)**  
+- 🧠 Strong foundation in **Data Structures & Algorithms**  
+- 🎯 Open to **Java Backend / Full Stack Developer** opportunities  
 - 📫 Reach me at **rutikwakchaure805@gmail.com**  
-- ⚡ I enjoy turning ideas into production-ready web applications  
+- ⚡ Passionate about turning ideas into production-ready applications  
 
 ---
 
 ### 🧰 Tech Stack
 
 **Backend**
-
 - Java • Spring Boot • Spring MVC • Spring Data JPA • Hibernate  
 - RESTful APIs • Servlets • JDBC  
 
 **Frontend**
-
 - React • JavaScript • TypeScript  
 - HTML5 • CSS3  
 
 **Database & Tools**
-
 - MySQL • Git • GitHub • VS Code • IntelliJ IDEA  
 
 **Programming & DSA**
-
 - Java (primary) • C++  
-- Data Structures & Algorithms (problem solving in Java)
+- Problem solving using core data structures & algorithms  
 
 ---
 
@@ -49,15 +45,15 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|-----------|
-| [**Online Book Store**](YOUR_BOOKSTORE_REPO_LINK) | Role-based auth (admin/user), secure CRUD for books, order management, and pagination. | Java, Spring Boot, Spring Security, Hibernate, MySQL, React |
-| [**ShopEase (E-commerce)**](YOUR_SHOPEASE_REPO_LINK) | Cart, checkout, payment flow, and admin dashboard for product and order management. | React, Spring Boot, MySQL |
-| [**Task Manager App**](YOUR_TASK_MANAGER_REPO_LINK) | REST APIs with full CRUD, JWT-based auth, and responsive UI for tasks and priorities. | Spring Boot, Hibernate, React |
+| **Online Book Store** | Role-based authentication, secure CRUD operations, order management, and pagination. | Java, Spring Boot, Spring Security, Hibernate, MySQL, React |
+| **ShopEase (E-commerce)** | Cart, checkout, payment flow, and admin dashboard for products & orders. | React, Spring Boot, MySQL |
+| **Task Manager App** | Secure REST APIs, JWT auth, and responsive UI to manage tasks & priorities. | Spring Boot, Hibernate, React |
 
-> Replace `YOUR_..._REPO_LINK` with your actual GitHub repo or live URL.
+> Replace the links with your project repositories or live demos.
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Highlights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ritikwakchaure&show_icons=true&theme=transparent" alt="GitHub stats" />
@@ -73,20 +69,20 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ritikwakchaure"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://github.com/ritikwakchaure"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" alt="GitHub"/></a>
-  <a href="mailto:rutikwakchaure805@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-blue?logo=gmail" alt="Email"/></a>
-  <a href="https://x.com/"><img src="https://img.shields.io/badge/X-(Twitter)-000000?logo=x" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/ritikwakchaure"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+  <a href="https://github.com/ritikwakchaure"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" /></a>
+  <a href="mailto:rutikwakchaure805@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail" /></a>
+  <a href="https://x.com/"><img src="https://img.shields.io/badge/X-(Twitter)-000000?logo=x" /></a>
 </p>
 
 ---
 
-### 💡 What I’m Currently Doing
+### 💡 Currently Learning
 
-- Solving **DSA problems daily in Java**  
-- Building **Spring Boot + React** applications with clean, modular architecture  
-- Exploring **Spring Security, performance optimization, and scalable REST APIs**  
+- Building **Spring Boot + React** apps with clean, modular architecture  
+- **Spring Security**, JWT, and API performance optimization  
+- Writing maintainable, scalable REST services  
 
 ---
 
-> If you’re hiring for Java backend or full stack roles, feel free to reach out.  
+> If you're hiring for Java backend or full-stack roles, I’d love to connect!
