@@ -22,19 +22,25 @@
 
 ---
 ### 🧰 Tech Stack
-<p align="center">
+## Languages and Tools:
 
-<b>Languages:</b><br/>
-<img src="https://skillicons.dev/icons?i=java,cpp,js,ts" />
-Java, C++, JavaScript, TypeScript
+![Java](https://skillicons.dev/icons?i=java)  
+![C++](https://skillicons.dev/icons?i=cpp)  
+![C](https://skillicons.dev/icons?i=c)  
+![HTML](https://skillicons.dev/icons?i=html)  
+![CSS](https://skillicons.dev/icons?i=css)  
+![JavaScript](https://skillicons.dev/icons?i=js)  
+![TypeScript](https://skillicons.dev/icons?i=ts)  
+![React](https://skillicons.dev/icons?i=react)  
+![Node.js](https://skillicons.dev/icons?i=nodejs)  
+![Spring](https://skillicons.dev/icons?i=spring)  
+![MongoDB](https://skillicons.dev/icons?i=mongodb)  
+![MySQL](https://skillicons.dev/icons?i=mysql)  
+![Git](https://skillicons.dev/icons?i=git)  
+![GitHub](https://skillicons.dev/icons?i=github)  
+![VS Code](https://skillicons.dev/icons?i=vscode)  
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
 
-<br/>
-
-<b>Backend:</b><br/>
-<img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
-Spring Boot, Hibernate, Maven
-
-<br/>
 
 <b>Frontend:</b><br/>
 
@@ -49,16 +55,21 @@ Spring Boot, Hibernate, Maven
 > Add your GitHub repo or live demo links to each project when available.
 ---
 
-### 📈 GitHub Highlights
+### 📊 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritikwakchaure&show_icons=true&theme=transparent" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=ritikwakchaure&theme=transparent" alt="GitHub Streak" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ritikwakchaure&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="GitHub stats" width="49%" />
+  
+  <!-- GitHub Streak Card -->
+  <img src="https://streak-stats.demolab.com?user=ritikwakchaure&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikwakchaure&layout=compact&theme=transparent" alt="Top Languages" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikwakchaure&layout=compact&theme=radical&hide_title=true&langs_count=6" alt="Top Languages" />
 </p>
+
 
 ---
 
