@@ -24,22 +24,11 @@
 ### 🧰 Tech Stack
 ## Languages and Tools:
 
-![Java](https://skillicons.dev/icons?i=java)  
-![C++](https://skillicons.dev/icons?i=cpp)  
-![C](https://skillicons.dev/icons?i=c)  
-![HTML](https://skillicons.dev/icons?i=html)  
-![CSS](https://skillicons.dev/icons?i=css)  
-![JavaScript](https://skillicons.dev/icons?i=js)  
-![TypeScript](https://skillicons.dev/icons?i=ts)  
-![React](https://skillicons.dev/icons?i=react)  
-![Node.js](https://skillicons.dev/icons?i=nodejs)  
-![Spring](https://skillicons.dev/icons?i=spring)  
-![MongoDB](https://skillicons.dev/icons?i=mongodb)  
-![MySQL](https://skillicons.dev/icons?i=mysql)  
-![Git](https://skillicons.dev/icons?i=git)  
-![GitHub](https://skillicons.dev/icons?i=github)  
-![VS Code](https://skillicons.dev/icons?i=vscode)  
-![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
+![Java](https://skillicons.dev/icons?i=java)  ![C++](https://skillicons.dev/icons?i=cpp)  ![HTML](https://skillicons.dev/icons?i=html)  ![CSS](https://skillicons.dev/icons?i=css)  
+![JavaScript](https://skillicons.dev/icons?i=js)  ![TypeScript](https://skillicons.dev/icons?i=ts)  ![React](https://skillicons.dev/icons?i=react)  ![Spring](https://skillicons.dev/icons?i=spring)  
+![MongoDB](https://skillicons.dev/icons?i=mongodb)  ![MySQL](https://skillicons.dev/icons?i=mysql)  
+![Git](https://skillicons.dev/icons?i=git)  ![GitHub](https://skillicons.dev/icons?i=github)  
+![VS Code](https://skillicons.dev/icons?i=vscode)  ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
 
 
 <b>Frontend:</b><br/>
