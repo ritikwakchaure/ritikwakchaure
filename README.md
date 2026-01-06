@@ -23,34 +23,26 @@
 ---
 ### 🧰 Tech Stack
 
-<p align="left">
+
+<p align="center">
 
 <!-- Languages -->
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=java,cpp,js,ts" />
 
-<br/>
+<br/><br/>
 
 <!-- Backend -->
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/REST-02569B?logo=apache&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
 
-<br/>
+<br/><br/>
 
 <!-- Frontend -->
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=react,html,css" />
 
-<br/>
+<br/><br/>
 
 <!-- Database & Tools -->
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea" />
 
 </p>
 
@@ -58,12 +50,11 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|-----------|
-| **Online Book Store** | Role-based authentication, secure CRUD operations, order management, and pagination. | Java, Spring Boot, Spring Security, Hibernate, MySQL, React |
-| **ShopEase (E-commerce)** | Cart, checkout, payment flow, and admin dashboard for products & orders. | React, Spring Boot, MySQL |
-| **Task Manager App** | Secure REST APIs, JWT auth, and responsive UI to manage tasks & priorities. | Spring Boot, Hibernate, React |
+| **Online Book Store** | Role-based authentication, secure CRUD features, order management, and pagination with a clean admin workflow. | Java, Spring Boot, Spring Security, Hibernate, MySQL, React |
+| **ShopEase (E-commerce)** | Full e-commerce flow including cart, checkout, and admin dashboard for managing products and orders. | React, Spring Boot, MySQL |
+| **Task Manager App** | JWT-secured REST APIs and responsive UI for creating, prioritizing, and managing tasks efficiently. | Spring Boot, Hibernate, React |
 
-> Replace the links with your project repositories or live demos.
-
+> Add your GitHub repo or live demo links to each project when available.
 ---
 
 ### 📈 GitHub Highlights
@@ -92,10 +83,10 @@
 
 ### 💡 Currently Learning
 
-- Building **Spring Boot + React** apps with clean, modular architecture  
-- **Spring Security**, JWT, and API performance optimization  
-- Writing maintainable, scalable REST services  
+- Building **Spring Boot + React** apps with scalable, modular architecture  
+- Implementing **Spring Security**, JWT, and performance optimization  
+- Designing maintainable, production-ready REST APIs  
 
 ---
 
-> If you're hiring for Java backend or full-stack roles, I’d love to connect!
+> If you're hiring for Java backend or full-stack roles, let’s connect — I’d love to contribute!
